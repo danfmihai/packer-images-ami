@@ -1,2 +1,2 @@
 # Packer-images
-will create a json file 
+The json file image.json will create an AMI image as EBS on AWS
